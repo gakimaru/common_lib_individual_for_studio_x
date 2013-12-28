@@ -2,6 +2,8 @@
 
 ■common_lib_individual_for_studio_x
 
+ブランチ：proj_c
+
 ※StudioX 向け専用の common_lib_indivisual リポジトリ。
 
 ※以下、通常の common_lib_indivisual リポジトリの解説と同じ。
